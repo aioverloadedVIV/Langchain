@@ -3,9 +3,11 @@
 This repository contains my LangChain based projects and experiments notebooks built while learning **Generative AI Engineering** using OpenAI, Gemini, and Anthropic models.
 
 ### Project Structure: LangChain Projects
+- Experimented with Langchain using OpenAI
+- Experimented with Langchan using Gemini
 
 ### Repo Structure
-- `notebooks/` → Jupyter notebooks (.ipynb) and Scripts (.py)
+- `notebooks/` → Jupyter notebooks (.ipynb)
 - `src/` → (future) structured Python codes and Projects
 - `requirements.txt` → dependencies
 - `.gitignore` → ignored files
