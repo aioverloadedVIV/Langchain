@@ -4,6 +4,7 @@ langchain-community
 langchain-openai
 langchain-google-genai
 langchainhub
+langchain_experimental
 
 # APIs
 openai #1.109.1
@@ -21,6 +22,7 @@ docx2txt
 pillow
 tqdm
 watchdog
+ddgs
 
 # Data
 pandas
