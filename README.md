@@ -2,15 +2,16 @@
 
 This repository contains my LangChain based projects and experiments notebooks built while learning **Generative AI Engineering** using OpenAI, Gemini, and Anthropic models.
 
-### Project Structure: LangChain Projects
+### LangChain Projects and Experimentation
 - Experimented with Langchain using OpenAI
 - Experimented with Langchain using Gemini
 - Langchain Implementation: LLM Chaining, PromptTemplates, Tools 
 - Langchain Tools: DuckDuckGoSearch, WikipediaSearch
-- Project: Langchain React Agent
+- Project: Langchain React Agent using - Langchain Tools (PythonREPL for coding and calculations, DuckDuckGo for Web Search and Wikipedia for factual details), OpenAI GPT Model as LLM, hwchase17 react from Langchain hub.
+- Performed Embeddings on csv files, estimated cost for tokens using TikToken and used OpenAI API Embedding Models, performed Semantic searches using custom Cosine Similarity
 
 ### Repo Structure
-- `notebooks/` → Jupyter notebooks (.ipynb)
+- `notebooks/` → Experiments Jupyter notebooks (.ipynb)
 - `src/` → (future) structured Python codes and Projects
 - `requirements.txt` → dependencies
 - `.gitignore` → ignored files
