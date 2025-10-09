@@ -4,9 +4,10 @@ This repository contains my LangChain based projects and experiments notebooks b
 
 ### Project Structure: LangChain Projects
 - Experimented with Langchain using OpenAI
-- Experimented with Langchan using Gemini
+- Experimented with Langchain using Gemini
 - Langchain Implementation: LLM Chaining, PromptTemplates, Tools 
 - Langchain Tools: DuckDuckGoSearch, WikipediaSearch
+- Project: Langchain React Agent
 
 ### Repo Structure
 - `notebooks/` → Jupyter notebooks (.ipynb)
