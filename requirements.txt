@@ -10,6 +10,7 @@ langchain_experimental
 openai #1.109.1
 google-generativeai #v0.8.5
 pinecone-client
+pinecone
 
 # Utilities
 duckduckgo-search
