@@ -9,6 +9,7 @@ This repository contains my LangChain based projects and experiments notebooks b
 - Langchain Tools: DuckDuckGoSearch, WikipediaSearch
 - Project: Langchain React Agent using - Langchain Tools (PythonREPL for coding and calculations, DuckDuckGo for Web Search and Wikipedia for factual details), OpenAI GPT Model as LLM, hwchase17 react from Langchain hub.
 - Performed Embeddings on csv files, estimated cost for tokens using TikToken and used OpenAI API Embedding Models, performed Semantic searches using custom Cosine Similarity
+- Project: RAG Bases Project "Question-Answering System on Private Documents" using OpenAI, Pinecone, Chroma and Langchain
 
 ### Repo Structure
 - `notebooks/` → Experiments Jupyter notebooks (.ipynb)
