@@ -5,6 +5,7 @@ langchain-openai
 langchain-google-genai
 langchainhub
 langchain_experimental
+langchain-pinecone
 
 # APIs
 openai #1.109.1
