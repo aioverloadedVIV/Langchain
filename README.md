@@ -16,7 +16,7 @@ This repository contains my LangChain based projects and experiments notebooks b
 ### Repo Structure
 
 - `notebooks/` → Experiments Jupyter notebooks (.ipynb)
-- `src/` → (future) structured Python codes and Projects
+- `src/` → Projects File
 - `requirements.txt` → dependencies
 - `.gitignore` → ignored files
 
