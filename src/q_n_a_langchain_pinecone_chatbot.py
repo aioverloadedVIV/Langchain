@@ -136,14 +136,15 @@ def insert_embeddings(index_name: str, file:str):
         return vector_store
 
 # Select Index Name for creation
-index_name = input("Enter Index Name for new index creation")
+index_name = input("Enter Index Name for new index creation: ")
 # Pass the file 
-file = input("Enter File Path with file name and extension")
+file = input("Enter File Path with file name and extension: ")
 if index_name and file: 
     vector_store = insert_embeddings(index_name=index_name, file=file)
     print(f"Vector Store Generated")
 else:
     print("Specify the correct File Path")
+    
 
 def ask_and_get_answer(vector_store, q):
     """func ask_and_get_answer allows a user to ask questions and get answers from vector_stores (where our document knowledge is stored) and generation of answer will happen with the help of LLMs.

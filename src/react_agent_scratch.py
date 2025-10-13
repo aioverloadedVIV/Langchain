@@ -148,6 +148,12 @@ def wikipedia(q):
         return None
     return results[0]['snippet']
 
+# dictionaries that maps the function names to the functions themselves
+
+known_actions = {"calculate": calculate, 
+                 "get_cost": get_cost, 
+                 "wikipedia": wikipedia}
+
 ## defining a regex for finding the action string
 action_re = re.compile(r'^Action: (\w+): (.*)$') # python regular expression to select Action:
 

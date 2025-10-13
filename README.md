@@ -8,10 +8,10 @@ This repository contains my LangChain based projects and experiments notebooks b
 - Experimented with Langchain using Gemini
 - Langchain Implementation: LLM Chaining, PromptTemplates, Tools
 - Langchain Tools: DuckDuckGoSearch, WikipediaSearch
-- Project: Langchain ReAct Agent using - Langchain Tools (PythonREPL for coding and calculations, DuckDuckGo for Web Search and Wikipedia for factual details), OpenAI GPT Model as LLM, hwchase17 react from Langchain hub.
+- **Project:** Langchain ReAct Agent using - Langchain Tools (PythonREPL for coding and calculations, DuckDuckGo for Web Search and Wikipedia for factual details), OpenAI GPT Model as LLM, hwchase17 react from Langchain hub.
 - Performed Embeddings on csv files, estimated cost for tokens using TikToken and used OpenAI API Embedding Models, performed Semantic searches using custom Cosine Similarity
-- Project: RAG Based Project "Question-Answering System on Private Documents" using OpenAI, Pinecone, Chroma and Langchain
-- Project: ReAct Agent from Scratch using OpenAI API model - created custom Agent class and set the prompt and few custom action tools.
+- **Project:** RAG Based Project "Question-Answering System on Private Documents" using OpenAI, Pinecone, Chroma and Langchain
+- **Project:** A command-line chatbot that implements the ReAct (Reasoning + Acting) pattern using OpenAI's GPT-4o-mini model. The agent can think through problems, take actions using available tools, and provide answers based on observations. **Tech Stack: OpenAI API, Python 3.x, httpx, **re** (regex). **Built without frameworks to understand fundamentals
 
 ### Repo Structure
 
